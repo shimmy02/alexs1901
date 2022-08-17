@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alexs1901
-- Interested in Commercial Radios (Motorola, Tait, Sepura etc), Telephony (Asterisk, SIP, Cisco CM etc)
+- 👋 Hi, I’m Alex
+- Interested in Commercial Radios (Motorola, Tait, Sepura etc) and VOIP (SIP, Asterisk, Cisco Unified CM, NEC etc)
 
 <!---
 alexs1901/alexs1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
